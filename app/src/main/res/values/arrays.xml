@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="collection_1_pictures">
+        <item>@drawable/sobak1</item>
+        <item>@drawable/sobak2</item>
+        <item>@drawable/sobak3</item>
+        <item>@drawable/sobak4</item>
+        <item>@drawable/sobak5</item>
+    </array>
+</resources>
